@@ -1,17 +1,17 @@
 <h1 align="center"> Hi, I'm Jesus C 👋</h1>
   <p align="center">
-    <code>Student/Software Engineer & IT Professional </code>
+    <code>Student/Software Engineer & IT Professional</code>
   </p>
   <p>
   
 ---
 
-<h1 align="center"> 🔧 What I’m Working On  </h1>
+<h1 align="center"> 🔧 What I’m Currently Working On  </h1>
 <p align="center">
   🔒 <b>Building a fully functional authentication system</b> for small businesses <br>
   📚 <b>Developing a Vocabulary App</b> to help users expand their language skills <br>
   👨‍💻 <b>Creating an AI-powered Chrome Extension</b> for enhancing productivity and automation <br>
-  📁 <b>Designing an Inventory Manager</b> for IT departments to streamline asset tracking
+  📁 <b>Designing an Inventory Manager</b> for IT departments to improve asset tracking
 </p>
 
 --- 
