@@ -11,7 +11,7 @@
   🔒 <b>Building a fully functional authentication system</b> for small businesses <br>
   📚 <b>Developing a Vocabulary App</b> to help users expand their language skills <br>
   👨‍💻 <b>Creating an AI-powered Chrome Extension</b> for enhancing productivity for students <br>
-  📁 <b>Designing an Inventory Manager</b> for IT departments to better manage assets
+  📁 <b>Designing an Inventory Manager</b> for IT departments to better manage their inventory
 </p>
 
 --- 
