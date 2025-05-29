@@ -24,27 +24,38 @@
 
 <h1 align="center"> 🖥️ Projects: </h1>
 
-<div align="center">
-  <h2>🔒 Authentication System</h2>
-  <img src="https://raw.githubusercontent.com/jesus-casas/jesus-casas/main/assets/auth-system.png" alt="Authentication System" width="600" height="300"/>
-  <p>A secure authentication system built with React, Node.js, and PostgreSQL featuring:</p>
-  <ul>
-    <li>User registration with email verification</li>
-    <li>Security questions for account recovery</li>
-    <li>Password reset functionality</li>
-    <li>Protected routes and session management</li>
-  </ul>
-  <br/>
+<div style="display: flex; flex-direction: column; gap: 2rem;">
+  <div style="display: flex; align-items: flex-start; gap: 2rem;">
+    <div style="flex: 0 0 auto;">
+      <h2>🔒 Authentication System</h2>
+      <img src="./assets/auth.png" alt="Authentication System" width="300" height="600"/>
+    </div>
+    <div style="flex: 1; margin-top: 2.5rem;">
+      <p>A secure authentication system built with React, Node.js, and PostgreSQL featuring:</p>
+      <ul>
+        <li>User registration with email verification</li>
+        <li>Security questions for account recovery</li>
+        <li>Password reset functionality</li>
+        <li>Protected routes and session management</li>
+      </ul>
+    </div>
+  </div>
 
-  <h2>🤖 AI Models Project</h2>
-  <img src="https://raw.githubusercontent.com/jesus-casas/jesus-casas/main/assets/ai-models.png" alt="AI Models Project" width="600" height="300"/>
-  <p>An AI-powered application showcasing various machine learning models:</p>
-  <ul>
-    <li>Natural Language Processing capabilities</li>
-    <li>Image recognition and classification</li>
-    <li>Real-time data analysis</li>
-    <li>Interactive model visualization</li>
-  </ul>
+  <div style="display: flex; align-items: flex-start; gap: 2rem;">
+    <div style="flex: 0 0 auto;">
+      <h2>🤖 AI Models Project</h2>
+      <img src="./assets/AI-models.png" alt="AI Models Project" width="600" height="300"/>
+    </div>
+    <div style="flex: 1; margin-top: 2.5rem;">
+      <p>An AI-powered application showcasing various machine learning models:</p>
+      <ul>
+        <li>Natural Language Processing capabilities</li>
+        <li>Image recognition and classification</li>
+        <li>Real-time data analysis</li>
+        <li>Interactive model visualization</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 
