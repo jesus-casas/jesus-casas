@@ -28,7 +28,9 @@
   <tr>
     <td width="320">
       <h2>🔒 Authentication System</h2>
-      <img src="./assets/auth.png" alt="Authentication System" width="150" height="300"/>
+      <div align="center">
+        <img src="./assets/auth.png" alt="Authentication System" width="150" height="300"/>
+      </div>
     </td>
     <td>
       <p>
@@ -63,6 +65,3 @@
     </td>
   </tr>
 </table>
-
-
-
