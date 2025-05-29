@@ -29,7 +29,7 @@
     <td width="320">
       <h2>🔒 Authentication System</h2>
       <div align="center">
-        <img src="./assets/auth.png" alt="Authentication System" width="150" height="300"/>
+        <img src="./assets/auth.png" alt="Authentication System" width="100" height="200"/>
       </div>
     </td>
     <td>
