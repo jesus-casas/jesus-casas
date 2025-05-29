@@ -24,39 +24,45 @@
 
 <h1 align="center"> 🖥️ Projects: </h1>
 
-<div style="display: flex; flex-direction: column; gap: 2rem;">
-  <div style="display: flex; align-items: flex-start; gap: 2rem;">
-    <div style="flex: 0 0 auto;">
+<table>
+  <tr>
+    <td width="320">
       <h2>🔒 Authentication System</h2>
-      <img src="./assets/auth.png" alt="Authentication System" width="300" height="600"/>
-    </div>
-    <div style="flex: 1; margin-top: 2.5rem;">
-      <p>A secure authentication system built with React, Node.js, and PostgreSQL featuring:</p>
+      <img src="./assets/auth.png" alt="Authentication System" width="150" height="300"/>
+    </td>
+    <td>
+      <p>
+        A secure authentication system built with React, Node.js, and PostgreSQL featuring:
+      </p>
       <ul>
         <li>User registration with email verification</li>
         <li>Security questions for account recovery</li>
         <li>Password reset functionality</li>
         <li>Protected routes and session management</li>
       </ul>
-    </div>
-  </div>
+    </td>
+  </tr>
+</table>
 
-  <div style="display: flex; align-items: flex-start; gap: 2rem;">
-    <div style="flex: 0 0 auto;">
+<table>
+  <tr>
+    <td width="320">
       <h2>🤖 AI Models Project</h2>
-      <img src="./assets/AI-models.png" alt="AI Models Project" width="600" height="300"/>
-    </div>
-    <div style="flex: 1; margin-top: 2.5rem;">
-      <p>An AI-powered application showcasing various machine learning models:</p>
+      <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
+    </td>
+    <td>
+      <p>
+        An AI-powered application showcasing various machine learning models:
+      </p>
       <ul>
         <li>Natural Language Processing capabilities</li>
         <li>Image recognition and classification</li>
         <li>Real-time data analysis</li>
         <li>Interactive model visualization</li>
       </ul>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 
 
