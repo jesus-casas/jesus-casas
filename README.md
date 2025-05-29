@@ -54,14 +54,8 @@
     </td>
     <td>
       <p>
-        An AI-powered application showcasing various machine learning models:
+This project lets users chat with the top 10 leading AI models all in one place. Whether it's for school, research, or productivity users can compare responses, explore different AI capabilities, and get answers instantly all from a single user-friendly platform.
       </p>
-      <ul>
-        <li>Natural Language Processing capabilities</li>
-        <li>Image recognition and classification</li>
-        <li>Real-time data analysis</li>
-        <li>Interactive model visualization</li>
-      </ul>
     </td>
   </tr>
 </table>
