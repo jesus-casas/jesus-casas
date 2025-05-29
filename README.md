@@ -6,7 +6,7 @@
   
 ---
 
-<h1 align="center"> 🔧 What I’m Currently Working On  </h1>
+<h1 align="center"> 🔧 What I'm Currently Working On  </h1>
 <p align="center">
   🔒 <b>Building a fully functional authentication system</b> for small businesses <br>
   📚 <b>Developing a Vocabulary App</b> to help users expand their language skills <br>
@@ -23,6 +23,29 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="center"> 🖥️ Projects: </h1>
+
+<div align="center">
+  <h2>🔒 Authentication System</h2>
+  <img src="https://raw.githubusercontent.com/jesus-casas/jesus-casas/main/assets/auth-system.png" alt="Authentication System" width="600" height="300"/>
+  <p>A secure authentication system built with React, Node.js, and PostgreSQL featuring:</p>
+  <ul>
+    <li>User registration with email verification</li>
+    <li>Security questions for account recovery</li>
+    <li>Password reset functionality</li>
+    <li>Protected routes and session management</li>
+  </ul>
+  <br/>
+
+  <h2>🤖 AI Models Project</h2>
+  <img src="https://raw.githubusercontent.com/jesus-casas/jesus-casas/main/assets/ai-models.png" alt="AI Models Project" width="600" height="300"/>
+  <p>An AI-powered application showcasing various machine learning models:</p>
+  <ul>
+    <li>Natural Language Processing capabilities</li>
+    <li>Image recognition and classification</li>
+    <li>Real-time data analysis</li>
+    <li>Interactive model visualization</li>
+  </ul>
+</div>
 
 
 
