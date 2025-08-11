@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Jesus 👋</h1>
   <p align="center">
-    <code>Software Engineer & IT Professional & Data Analyst</code>
+    <code>Software Engineer & Data Analyst</code>
   </p>
   <p>
   
