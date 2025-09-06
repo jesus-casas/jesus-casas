@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="320">
-      <h2>🔒 Authentication System</h2>
+      <h2>🔒 Full-Stack Auth Sys</h2>
       <div align="center">
         <img src="./assets/auth.png" alt="Authentication System" width="100" height="200"/>
       </div>
@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td width="320">
-      <h2>🤖 AI Models Project</h2>
+      <h2>🤖 AI Models Web App </h2>
       <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
     </td>
     <td>
