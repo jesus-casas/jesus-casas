@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="320">
-      <h2>🔒 Full-Stack Auth Sys</h2>
+      <h2>🔒 Full-Stack Auth System</h2>
       <div align="center">
         <img src="./assets/auth.png" alt="Authentication System" width="100" height="200"/>
       </div>
