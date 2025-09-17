@@ -9,7 +9,7 @@
 <h1 align="center"> 🔧 What I'm Currently Working On  </h1>
 <p align="center">
   🔒 <b>Building a fully functional authentication system</b> for small businesses <br>
-  📚 <b>Developing a Vocabulary App</b> to help users expand their language skills <br>
+  🤖 <b>Building an All-in-One AI Hub</b> where users can access every model in one place <br>
   👨‍💻 <b>Creating an AI-powered Chrome Extension</b> for enhancing productivity for students <br>
   📁 <b>Designing an Inventory Manager</b> for IT departments to better manage assets
 </p>
