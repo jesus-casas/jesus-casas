@@ -37,6 +37,7 @@
         A secure authentication system built with React, Node.js, and PostgreSQL featuring:
       </p>
       <ul>
+        <li>Google reCAPTCHA for bot protection</li>
         <li>User registration with email verification</li>
         <li>Security questions for account recovery</li>
         <li>Password reset functionality</li>
