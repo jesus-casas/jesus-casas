@@ -34,7 +34,7 @@
     </td>
     <td>
       <p>
-        A secure authentication system built with React, Node.js, and PostgreSQL featuring:
+        A secure authentication system built with React, Node.js, and PostgreSQL
       </p>
       <ul>
         <li>Google reCAPTCHA for bot protection</li>
@@ -54,9 +54,14 @@
       <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
     </td>
     <td>
-      <p>
-This project lets users chat with the top 10 leading AI models all in one place. Whether it's for school, research, or productivity users can compare responses, explore different AI capabilities, and get answers instantly all from a single user-friendly platform.
-      </p>
+      <p>AI platform that brings the top 10 leading AI models together in one place</p>
+      <ul>
+        <li>Side-by-side chat with multiple AI models</li>
+        <li>Instant answers for school, research, and productivity</li>
+        <li>Easily compare different models</li>
+        <li>Clean and user-friendly interface</li>
+        <li>Centralized hub to access the latest AI models</li>
+      </ul>
     </td>
   </tr>
 </table>
