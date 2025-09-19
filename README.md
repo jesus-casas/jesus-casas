@@ -39,8 +39,8 @@
       <ul>
         <li>Google reCAPTCHA for bot protection</li>
         <li>User registration with email verification</li>
-        <li>Security questions for account recovery</li>
-        <li>Password reset functionality</li>
+        <li>Password reset functionality with Security questions</li>
+        <li>Secure password creation with real-time strength feedback</li>
         <li>Protected routes and session management</li>
       </ul>
     </td>
