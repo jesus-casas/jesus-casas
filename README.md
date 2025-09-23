@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td width="320">
-      <h2>🤖 AI Models Web App </h2>
+      <h2>🤖 AI Models Website </h2>
       <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
     </td>
     <td>
