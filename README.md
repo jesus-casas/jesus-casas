@@ -37,44 +37,46 @@
 
 <h1 align="center"> Projects: </h1>
 
-<table>
-  <tr>
-    <td width="320">
-      <h2>🔒 Full-Stack Auth System</h2>
-      <div align="center">
-        <img src="./assets/auth.png" alt="Authentication System" width="100" height="200"/>
-      </div>
-    </td>
-    <td>
-      <p>
-        A secure authentication system built with React, Node.js, and PostgreSQL
-      </p>
-      <ul>
-        <li>Google reCAPTCHA for bot protection</li>
-        <li>User registration with email verification</li>
-        <li>Password reset functionality with Security questions</li>
-        <li>Secure password creation with real-time strength feedback</li>
-        <li>Protected routes and session management</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="320">
+        <h2>🔒 Full-Stack Auth System</h2>
+        <div align="center">
+          <img src="./assets/auth.png" alt="Authentication System" width="100" height="200"/>
+        </div>
+      </td>
+      <td>
+        <p>A secure authentication system built with React, Node.js, and PostgreSQL</p>
+        <ul>
+          <li>Google reCAPTCHA for bot protection</li>
+          <li>User registration with email verification</li>
+          <li>Password reset functionality with security questions</li>
+          <li>Password strength feedback</li>
+          <li>Protected routes & session management</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td width="320">
-      <h2>🤖 AI Models Website </h2>
-      <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
-    </td>
-    <td>
-      <p>AI platform that brings the top 10 leading AI models together in one place</p>
-      <ul>
-        <li>Side-by-side chat with multiple AI models</li>
-        <li>Instant answers for school, research, and productivity</li>
-        <li>Easily compare different models</li>
-        <li>Clean and user-friendly interface</li>
-        <li>Centralized hub to access the latest AI models</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="320">
+        <h2>🤖 AI Models Website</h2>
+        <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
+      </td>
+      <td>
+        <p>AI platform that brings the top 10 leading AI models together in one place</p>
+        <ul>
+          <li>Side-by-side chat with multiple AI models</li>
+          <li>Instant answers for school, research, and productivity</li>
+          <li>Easily compare different models</li>
+          <li>Clean and user-friendly interface</li>
+          <li>Centralized AI model hub</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
