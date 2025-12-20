@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Jesus 👋</h1>
+<h1 align="center"> Hi, I'm Jesus </h1>
   <p align="center">
     <code>Software Engineer & Data Analyst</code>
   </p>
@@ -6,16 +6,16 @@
   
 ---
 
-<h1 align="center"> 🔧 What I'm Currently Working On  </h1>
+<h1 align="center"> What I'm Currently Working On  </h1>
 <p align="center">
-  🔒 <b>Building a fully functional authentication system</b> for Saas <br>
-  🤖 <b>Building an All-in-One AI Hub</b> where users can access every model in one place <br>
-  👨‍💻 <b>Creating an AI-powered Chrome Extension</b> for enhancing productivity for students <br>
+ <b>Building a fully functional authentication system</b> for Saas <br>
+ <b>Building an All-in-One AI Hub</b> where users can access every model in one place <br>
+ <b>Creating an AI-powered Chrome Extension</b> for enhancing productivity for students <br>
 </p>
 
 --- 
 
-<h1 align="center"> Technologies: </h1>
+<h1 align="center"> Tech: </h1>
 
 <h2 align="center">Programming Languages</h2>
 
@@ -41,7 +41,7 @@
   <table>
     <tr>
       <td width="320">
-        <h2>🔒 Full-Stack Auth System</h2>
+        <h2> Full-Stack Auth System</h2>
         <div align="center">
           <img src="./assets/auth.png" alt="Authentication System" width="100" height="200"/>
         </div>
@@ -64,7 +64,7 @@
   <table>
     <tr>
       <td width="320">
-        <h2>🤖 AI Models Website</h2>
+        <h2>AI Models Website</h2>
         <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
       </td>
       <td>
