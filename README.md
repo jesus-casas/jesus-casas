@@ -74,7 +74,7 @@
           <li>Instant answers for school, research, and productivity</li>
           <li>Easily compare different models</li>
           <li>Clean and user-friendly interface</li>
-          <li>Centralized AI model hub</li>
+          <li>Compare answers between two different models at once</li>
         </ul>
       </td>
     </tr>
