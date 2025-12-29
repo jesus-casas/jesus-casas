@@ -1,7 +1,7 @@
 <h1 align="center"> Happy holidays, I'm Jesus </h1>
   
   <p align="center">
-    <code>Software Engineer & Data Analyst</code>
+    <code>Software Engineer</code>
   </p>
   <p>
 
