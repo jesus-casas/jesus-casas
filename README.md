@@ -65,7 +65,7 @@
     <tr>
       <td width="320">
         <h2>AI Models Website</h2>
-        <img src="./assets/AI-models.png" alt="AI Models Project" width="300" height="175"/>
+        <img src="./assets/aimodels.png" alt="AI Models Project" width="300" height="175"/>
       </td>
       <td>
         <p>AI platform that brings the top 10 leading AI models together in one place</p>
