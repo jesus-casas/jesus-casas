@@ -1,4 +1,4 @@
-<h1 align="center"> Happy holidays, I'm Jesus </h1>
+<h1 align="center"> Hi, I'm Jesus </h1>
   
   <p align="center">
     <code>Software Engineer</code>
