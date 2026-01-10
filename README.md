@@ -70,11 +70,10 @@
       <td>
         <p>AI platform that brings the top 10 leading AI models together in one place</p>
         <ul>
-          <li>Side-by-side chat with multiple AI models</li>
+          <li>Compare answers between two different models at once</li>
           <li>Instant answers for school, research, and productivity</li>
           <li>Easily compare different models</li>
           <li>Clean and user-friendly interface</li>
-          <li>Compare answers between two different models at once</li>
         </ul>
       </td>
     </tr>
