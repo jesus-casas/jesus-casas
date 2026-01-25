@@ -5,10 +5,10 @@
   </p>
   <p>
 
-<h1 align="center"> What I'm Currently Working On  </h1>
+<h1 align="center"> What I'm Currently Working On </h1>
 <p align="center">
  <b>Building a fully functional authentication system</b> for SaaS <br>
- <b>Building an All-in-One AI Hub</b> where users can access every top model in one place <br>
+ <b>Building an AI Assistant</b> where users can access every top model in one place <br>
  <b>Creating an AI-powered Chrome Extension</b> for enhancing productivity for students <br>
 </p>
 
