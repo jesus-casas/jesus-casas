@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Jesus </h1>
   
   <p align="center">
-    <code>Software Engineer</code>
+    <code>Full-Stack Web Developer</code>
   </p>
   <p>
 
