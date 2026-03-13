@@ -65,7 +65,7 @@
         <img src="./assets/aimodels.png" alt="AI Models Project" width="300" height="175"/>
       </td>
       <td>
-        <p>AI platform that brings the top 10 leading AI models together in one place</p>
+        <p>AI platform that brings the top leading AI models together in one place</p>
         <ul>
           <li>Compare answers between two different models at once</li>
           <li>Instant answers for school, research, and productivity</li>
