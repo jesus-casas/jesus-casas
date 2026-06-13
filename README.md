@@ -5,12 +5,6 @@
   </p>
   <p>
 
-<h1 align="center"> What I'm Currently Working On </h1>
-<p align="center">
- <b>Building an AI Assistant</b> where users can access every top model in one place <br>
- <b>Building a fully functional authentication system</b> for SaaS <br>
-</p>
-
 --- 
 
 <h1 align="center"> Tech: </h1>
