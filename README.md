@@ -39,8 +39,8 @@
       <td>
         <p>A macOS menu bar focus timer and deep work habit tracker <strong>"Get 1% better, every single day"</strong></p>
         <ul>
-          <li>One-click timer and stopwatch that lives in the menu bar, with a live countdown</li>
-          <li>Activity grid, streak counter, and monthly insights to keep the habit honest</li>
+          <li>One-click timer and stopwatch that lives in the menu bar</li>
+          <li>Activity grid, streak counter, and monthly insights to keep the habit</li>
           <li>Always-on-top floating timer pill, gentle alarm, light & dark themes</li>
           <li>Session history with CSV export fully on-device, no tracking</li>
         </ul>
