@@ -30,20 +30,19 @@
   <table>
     <tr>
       <td width="320">
-        <h2>Deepflow — <a href="https://deepflowfocus.com">deepflowfocus.com</a></h2>
+        <h2>Deepflow <a href="https://deepflowfocus.com">deepflowfocus.com</a></h2>
         <p><em>Latest project</em></p>
         <!-- Add a screenshot at ./assets/deepflow.png and uncomment:
         <img src="./assets/deepflow.png" alt="Deepflow" width="300" height="175"/>
         -->
       </td>
       <td>
-        <p>A macOS menu bar focus timer and deep work habit tracker — <strong>"Get 1% better, every single day"</strong></p>
+        <p>A macOS menu bar focus timer and deep work habit tracker <strong>"Get 1% better, every single day"</strong></p>
         <ul>
           <li>One-click timer and stopwatch that lives in the menu bar, with a live countdown</li>
-          <li>Pomodoro presets plus custom durations set by dragging</li>
           <li>Activity grid, streak counter, and monthly insights to keep the habit honest</li>
           <li>Always-on-top floating timer pill, gentle alarm, light & dark themes</li>
-          <li>Session history with CSV export — fully on-device, no tracking</li>
+          <li>Session history with CSV export fully on-device, no tracking</li>
         </ul>
       </td>
     </tr>
