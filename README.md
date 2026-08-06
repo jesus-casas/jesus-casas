@@ -37,7 +37,7 @@
         -->
       </td>
       <td>
-        <p>A macOS menu bar focus timer and deep work habit tracker <strong>"Get 1% better, every single day"</strong></p>
+        <p>A macOS menu bar focus timer and deep work habit tracker </p>
         <ul>
           <li>One-click timer and stopwatch that lives in the menu bar</li>
           <li>Activity grid, streak counter, and monthly insights to keep the habit</li>
