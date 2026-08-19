@@ -12,7 +12,7 @@
     <tr>
       <td width="320">
         <h2>Deepflow <a href="https://deepflowfocus.com">deepflowfocus.com</a></h2>
-        <p><em>Latest project</em></p>
+        <p><em></em></p>
         <!-- Add a screenshot at ./assets/deepflow.png and uncomment:
         <img src="./assets/deepflow.png" alt="Deepflow" width="300" height="175"/>
         -->
